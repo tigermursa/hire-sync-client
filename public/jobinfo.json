@@ -1,0 +1,733 @@
+[
+  {
+    "jobTitle": "Web Developer",
+    "jobType": "Remote",
+    "companyName": "Dragon Ltd",
+    "salary": "500 USD/month",
+    "jobCategory": "developer",
+    "experience": "5 years",
+    "jobDescription": "Dragon Ltd is seeking a skilled Web Developer to join our remote team...",
+    "companyAbout": "Dragon Ltd is a leading technology company specializing in web development solutions...",
+    "skillRequirements": ["HTML", "CSS", "JavaScript", "React"]
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "jobType": "Remote",
+    "companyName": "Phoenix Solutions",
+    "salary": "600 USD/month",
+    "jobCategory": "developer",
+    "experience": "2 years",
+    "jobDescription": "Phoenix Solutions is looking for a talented Software Engineer to join our remote team...",
+    "companyAbout": "Phoenix Solutions is a leading technology company that specializes in providing innovative software solutions...",
+    "skillRequirements": ["Java", "Python", "C++", "Spring", "Django"]
+  },
+  {
+    "jobTitle": "Digital Marketer",
+    "jobType": "On-site",
+    "companyName": "Social Media Agency",
+    "salary": "800 USD/month",
+    "jobCategory": "marketing",
+    "experience": "3 years",
+    "jobDescription": "Social Media Agency is hiring a Digital Marketer to work on-site...",
+    "companyAbout": "Social Media Agency is a renowned marketing agency focused on helping businesses establish a strong online presence...",
+    "skillRequirements": ["Social media marketing", "SEO", "Content creation"]
+  },
+  {
+    "jobTitle": "Marketing Manager",
+    "jobType": "Remote",
+    "companyName": "Global Marketing Solutions",
+    "salary": "1000 USD/month",
+    "jobCategory": "marketing",
+    "experience": "5 years",
+    "jobDescription": "Global Marketing Solutions is seeking a Marketing Manager to join our remote team...",
+    "companyAbout": "Global Marketing Solutions is a leading provider of marketing solutions...",
+    "skillRequirements": [
+      "Marketing strategy",
+      "Campaign management",
+      "Market research"
+    ]
+  },
+  {
+    "jobTitle": "English Teacher",
+    "jobType": "On-site",
+    "companyName": "International School",
+    "salary": "1200 USD/month",
+    "jobCategory": "teacher",
+    "experience": "2 years",
+    "jobDescription": "International School is hiring an English Teacher to join our team...",
+    "companyAbout": "International School is a prestigious educational institution offering quality education...",
+    "skillRequirements": [
+      "Teaching English as a second language",
+      "Classroom management"
+    ]
+  },
+  {
+    "jobTitle": "Math Teacher",
+    "jobType": "Hybrid",
+    "companyName": "Private Academy",
+    "salary": "1500 USD/month",
+    "jobCategory": "teacher",
+    "experience": "4 years",
+    "jobDescription": "Private Academy is seeking a Math Teacher to work in a hybrid teaching environment...",
+    "companyAbout": "Private Academy is dedicated to providing comprehensive education and fostering academic excellence...",
+    "skillRequirements": [
+      "Mathematics",
+      "Teaching methods",
+      "Curriculum development"
+    ]
+  },
+  {
+    "jobTitle": "Frontend Developer",
+    "jobType": "Remote",
+    "companyName": "Tech Solutions Inc.",
+    "salary": "700 USD/month",
+    "jobCategory": "developer",
+    "experience": "3 years",
+    "jobDescription": "Tech Solutions Inc. is looking for a talented Frontend Developer to join our remote team...",
+    "companyAbout": "Tech Solutions Inc. is a technology consulting firm specializing in frontend development...",
+    "skillRequirements": ["HTML", "CSS", "JavaScript", "React", "Vue"]
+  },
+  {
+    "jobTitle": "Graphic Designer",
+    "jobType": "On-site",
+    "companyName": "Creative Agency",
+    "salary": "900 USD/month",
+    "jobCategory": "marketing",
+    "experience": "2 years",
+    "jobDescription": "Creative Agency is hiring a Graphic Designer to work on-site...",
+    "companyAbout": "Creative Agency is a leading creative design agency offering innovative solutions to clients...",
+    "skillRequirements": [
+      "Adobe Photoshop",
+      "Illustrator",
+      "Typography",
+      "Visual design"
+    ]
+  },
+  {
+    "jobTitle": "Network Administrator",
+    "jobType": "Hybrid",
+    "companyName": "IT Solutions Ltd.",
+    "salary": "1200 USD/month",
+    "jobCategory": "developer",
+    "experience": "4 years",
+    "jobDescription": "IT Solutions Ltd. is seeking a Network Administrator to work in a hybrid environment...",
+    "companyAbout": "IT Solutions Ltd. is a trusted provider of IT services and solutions to businesses...",
+    "skillRequirements": [
+      "Network infrastructure",
+      "Security protocols",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "jobTitle": "Sales Representative",
+    "jobType": "On-site",
+    "companyName": "Global Sales Corp",
+    "salary": "800 USD/month",
+    "jobCategory": "marketing",
+    "experience": "1 year",
+    "jobDescription": "Global Sales Corp is hiring a Sales Representative for on-site sales activities...",
+    "companyAbout": "Global Sales Corp is a leading global sales organization serving clients in various industries...",
+    "skillRequirements": [
+      "Sales techniques",
+      "Customer relationship management"
+    ]
+  },
+  {
+    "jobTitle": "Art Teacher",
+    "jobType": "On-site",
+    "companyName": "Art Academy",
+    "salary": "1000 USD/month",
+    "jobCategory": "teacher",
+    "experience": "3 years",
+    "jobDescription": "Art Academy is seeking an Art Teacher for on-site teaching...",
+    "companyAbout": "Art Academy is a renowned institution dedicated to promoting artistic creativity...",
+    "skillRequirements": ["Artistic skills", "Teaching methods", "Art history"]
+  },
+  {
+    "jobTitle": "Mobile App Developer",
+    "jobType": "Remote",
+    "companyName": "App Solutions Ltd.",
+    "salary": "900 USD/month",
+    "jobCategory": "developer",
+    "experience": "2 years",
+    "jobDescription": "App Solutions Ltd. is looking for a talented Mobile App Developer to join our remote team...",
+    "companyAbout": "App Solutions Ltd. is a leading mobile app development company specializing in creating innovative apps...",
+    "skillRequirements": [
+      "Mobile app development",
+      "iOS",
+      "Android",
+      "React Native"
+    ]
+  },
+  {
+    "jobTitle": "SEO Specialist",
+    "jobType": "Remote",
+    "companyName": "Digital Marketing Agency",
+    "salary": "800 USD/month",
+    "jobCategory": "marketing",
+    "experience": "2 years",
+    "jobDescription": "Digital Marketing Agency is hiring an SEO Specialist to join our remote team...",
+    "companyAbout": "Digital Marketing Agency is a full-service digital marketing agency offering a range of services...",
+    "skillRequirements": [
+      "Search engine optimization",
+      "Keyword research",
+      "Google Analytics"
+    ]
+  },
+  {
+    "jobTitle": "English Language Instructor",
+    "jobType": "Hybrid",
+    "companyName": "Language Center",
+    "salary": "1100 USD/month",
+    "jobCategory": "teacher",
+    "experience": "5 years",
+    "jobDescription": "Language Center is seeking an English Language Instructor to work in a hybrid teaching environment...",
+    "companyAbout": "Language Center is dedicated to providing high-quality language education...",
+    "skillRequirements": ["English language proficiency", "Teaching methods"]
+  },
+  {
+    "jobTitle": "Full Stack Developer",
+    "jobType": "Remote",
+    "companyName": "Tech Innovations Inc.",
+    "salary": "1200 USD/month",
+    "jobCategory": "developer",
+    "experience": "4 years",
+    "jobDescription": "Tech Innovations Inc. is looking for a talented Full Stack Developer to join our remote team...",
+    "companyAbout": "Tech Innovations Inc. is a technology company specializing in developing innovative solutions...",
+    "skillRequirements": ["HTML", "CSS", "JavaScript", "Node.js", "MongoDB"]
+  },
+  {
+    "jobTitle": "Content Writer",
+    "jobType": "Remote",
+    "companyName": "Content Solutions Ltd.",
+    "salary": "700 USD/month",
+    "jobCategory": "marketing",
+    "experience": "1 year",
+    "jobDescription": "Content Solutions Ltd. is hiring a Content Writer to join our remote team...",
+    "companyAbout": "Content Solutions Ltd. is a content marketing agency focused on delivering engaging content...",
+    "skillRequirements": ["Copywriting", "Content creation", "SEO"]
+  },
+  {
+    "jobTitle": "Physics Teacher",
+    "jobType": "On-site",
+    "companyName": "Science Academy",
+    "salary": "1300 USD/month",
+    "jobCategory": "teacher",
+    "experience": "3 years",
+    "jobDescription": "Science Academy is seeking a Physics Teacher for on-site teaching...",
+    "companyAbout": "Science Academy is a prestigious educational institution offering quality education...",
+    "skillRequirements": [
+      "Physics",
+      "Teaching methods",
+      "Laboratory experiments"
+    ]
+  },
+  {
+    "jobTitle": "UI/UX Designer",
+    "jobType": "Remote",
+    "companyName": "Design Studio",
+    "salary": "1000 USD/month",
+    "jobCategory": "developer",
+    "experience": "2 years",
+    "jobDescription": "Design Studio is looking for a talented UI/UX Designer to join our remote team...",
+    "companyAbout": "Design Studio is a creative design agency specializing in user interface and user experience design...",
+    "skillRequirements": [
+      "User interface design",
+      "User experience design",
+      "Prototyping"
+    ]
+  },
+  {
+    "jobTitle": "Social Media Manager",
+    "jobType": "Remote",
+    "companyName": "Digital Agency",
+    "salary": "900 USD/month",
+    "jobCategory": "marketing",
+    "experience": "2 years",
+    "jobDescription": "Digital Agency is hiring a Social Media Manager to join our remote team...",
+    "companyAbout": "Digital Agency is a leading digital marketing agency offering comprehensive solutions...",
+    "skillRequirements": [
+      "Social media management",
+      "Content strategy",
+      "Analytics"
+    ]
+  },
+  {
+    "jobTitle": "Chemistry Teacher",
+    "jobType": "Hybrid",
+    "companyName": "Science Academy",
+    "salary": "1200 USD/month",
+    "jobCategory": "teacher",
+    "experience": "4 years",
+    "jobDescription": "Science Academy is seeking a Chemistry Teacher to work in a hybrid teaching environment...",
+    "companyAbout": "Science Academy is a prestigious educational institution offering quality education...",
+    "skillRequirements": [
+      "Chemistry",
+      "Teaching methods",
+      "Laboratory experiments"
+    ]
+  },
+  {
+    "jobTitle": "Back-end Developer",
+    "jobType": "On-site",
+    "companyName": "Software Solutions Ltd.",
+    "salary": "1100 USD/month",
+    "jobCategory": "developer",
+    "experience": "3 years",
+    "jobDescription": "Software Solutions Ltd. is looking for a talented Back-end Developer for on-site work...",
+    "companyAbout": "Software Solutions Ltd. is a software development company specializing in backend solutions...",
+    "skillRequirements": ["Java", "Python", "Node.js", "SQL"]
+  },
+  {
+    "jobTitle": "Digital Marketing Specialist",
+    "jobType": "Remote",
+    "companyName": "Marketing Solutions Inc.",
+    "salary": "1000 USD/month",
+    "jobCategory": "marketing",
+    "experience": "3 years",
+    "jobDescription": "Marketing Solutions Inc. is seeking a Digital Marketing Specialist to join our remote team...",
+    "companyAbout": "Marketing Solutions Inc. is a leading marketing agency offering a range of digital marketing services...",
+    "skillRequirements": [
+      "Digital marketing",
+      "Campaign management",
+      "Google Ads"
+    ]
+  },
+
+  {
+    "jobTitle": "Mathematics Teacher",
+    "jobType": "On-site",
+    "companyName": "Education Institute",
+    "salary": "1400 USD/month",
+    "jobCategory": "teacher",
+    "experience": "4 years",
+    "jobDescription": "Education Institute is hiring a Mathematics Teacher for on-site teaching...",
+    "companyAbout": "Education Institute is a reputable educational organization dedicated to providing quality education...",
+    "skillRequirements": [
+      "Mathematics",
+      "Teaching methods",
+      "Curriculum development"
+    ]
+  },
+  {
+    "jobTitle": "Art Teacher",
+    "jobType": "Hybrid",
+    "companyName": "Creative School",
+    "salary": "1200 USD/month",
+    "jobCategory": "teacher",
+    "experience": "3 years",
+    "jobDescription": "Creative School is seeking an Art Teacher to work in a hybrid teaching environment...",
+    "companyAbout": "Creative School is an innovative educational institution fostering creativity and artistic expression...",
+    "skillRequirements": ["Art education", "Drawing", "Painting"]
+  },
+  {
+    "jobTitle": "Physical Education Teacher",
+    "jobType": "On-site",
+    "companyName": "Sports Academy",
+    "salary": "1300 USD/month",
+    "jobCategory": "teacher",
+    "experience": "5 years",
+    "jobDescription": "Sports Academy is looking for a Physical Education Teacher for on-site teaching...",
+    "companyAbout": "Sports Academy is a leading institution promoting sports and physical fitness among students...",
+    "skillRequirements": [
+      "Physical education",
+      "Sports coaching",
+      "Fitness training"
+    ]
+  },
+  {
+    "jobTitle": "Cybersecurity Analyst",
+    "jobType": "Hybrid",
+    "companyName": "Tech Security Solutions",
+    "salary": "1500 USD/month",
+    "jobCategory": "",
+    "experience": "3 years",
+    "jobDescription": "Tech Security Solutions is hiring a Cybersecurity Analyst to work in a hybrid environment...",
+    "companyAbout": "Tech Security Solutions is a trusted provider of cybersecurity solutions and services...",
+    "skillRequirements": [
+      "Network security",
+      "Vulnerability assessment",
+      "Incident response"
+    ]
+  },
+  {
+    "jobTitle": "English Language Teacher",
+    "jobType": "On-site",
+    "companyName": "Language Academy",
+    "salary": "1400 USD/month",
+    "jobCategory": "teacher",
+    "experience": "4 years",
+    "jobDescription": "Language Academy is seeking an English Language Teacher for on-site teaching...",
+    "companyAbout": "Language Academy is a language learning center offering comprehensive English language programs...",
+    "skillRequirements": [
+      "English language proficiency",
+      "Teaching methods",
+      "Language assessment"
+    ]
+  },
+  {
+    "jobTitle": "History Teacher",
+    "jobType": "Hybrid",
+    "companyName": "Education Institute",
+    "salary": "1200 USD/month",
+    "jobCategory": "teacher",
+    "experience": "3 years",
+    "jobDescription": "Education Institute is hiring a History Teacher to work in a hybrid teaching environment...",
+    "companyAbout": "Education Institute is a reputable educational organization dedicated to providing quality education...",
+    "skillRequirements": [
+      "History",
+      "Teaching methods",
+      "Curriculum development"
+    ]
+  },
+  {
+    "jobTitle": "Network Security Engineer",
+    "jobType": "On-site",
+    "companyName": "Secure Networks Inc.",
+    "salary": "1600 USD/month",
+    "jobCategory": "security",
+    "experience": "5 years",
+    "jobDescription": "Secure Networks Inc. is looking for a skilled Network Security Engineer for on-site work...",
+    "companyAbout": "Secure Networks Inc. is a leading provider of secure networking solutions and services...",
+    "skillRequirements": [
+      "Network security",
+      "Firewall configuration",
+      "Intrusion detection"
+    ]
+  },
+  {
+    "jobTitle": "Science Teacher",
+    "jobType": "Hybrid",
+    "companyName": "Education Institute",
+    "salary": "1300 USD/month",
+    "jobCategory": "teacher",
+    "experience": "4 years",
+    "jobDescription": "Education Institute is hiring a Science Teacher to work in a hybrid teaching environment...",
+    "companyAbout": "Education Institute is a reputable educational organization dedicated to providing quality education...",
+    "skillRequirements": [
+      "Science",
+      "Teaching methods",
+      "Laboratory experiments"
+    ]
+  },
+  {
+    "jobTitle": "Security Operations Center Analyst",
+    "jobType": "Hybrid",
+    "companyName": "Cyber Defense Solutions",
+    "salary": "1700 USD/month",
+    "jobCategory": "security",
+    "experience": "5 years",
+    "jobDescription": "Cyber Defense Solutions is seeking a Security Operations Center Analyst for hybrid work...",
+    "companyAbout": "Cyber Defense Solutions is a leading cybersecurity firm offering comprehensive security services...",
+    "skillRequirements": [
+      "Security operations",
+      "Incident response",
+      "Threat intelligence"
+    ]
+  },
+  {
+    "jobTitle": "Music Teacher",
+    "jobType": "On-site",
+    "companyName": "Creative School",
+    "salary": "1200 USD/month",
+    "jobCategory": "teacher",
+    "experience": "3 years",
+    "jobDescription": "Creative School is hiring a Music Teacher for on-site teaching...",
+    "companyAbout": "Creative School is an innovative educational institution fostering creativity and artistic expression...",
+    "skillRequirements": [
+      "Music education",
+      "Instrumental skills",
+      "Music theory"
+    ]
+  },
+
+  {
+    "jobTitle": "Marketing Intern",
+    "jobType": "Hybrid",
+    "companyName": "Digital Solutions",
+    "salary": "800 USD/month",
+    "jobCategory": "marketing",
+    "experience": "N/A",
+    "jobDescription": "Digital Solutions is offering a Marketing Internship for hybrid work...",
+    "companyAbout": "Digital Solutions is a leading digital marketing agency specializing in online advertising...",
+    "skillRequirements": [
+      "Marketing concepts",
+      "Social media management",
+      "Content creation"
+    ]
+  },
+  {
+    "jobTitle": "Software Development Intern",
+    "jobType": "Hybrid",
+    "companyName": "Tech Innovators",
+    "salary": "900 USD/month",
+    "jobCategory": "developer",
+    "experience": "N/A",
+    "jobDescription": "Tech Innovators is seeking a Software Development Intern for hybrid work...",
+    "companyAbout": "Tech Innovators is a technology-driven company focusing on software development...",
+    "skillRequirements": [
+      "Programming languages",
+      "Software development concepts",
+      "Problem-solving"
+    ]
+  },
+  {
+    "jobTitle": "Graphic Design Intern",
+    "jobType": "Hybrid",
+    "companyName": "Creative Studio",
+    "salary": "800 USD/month",
+    "jobCategory": "marketing",
+    "experience": "N/A",
+    "jobDescription": "Creative Studio is offering a Graphic Design Internship for hybrid work...",
+    "companyAbout": "Creative Studio is a design agency specializing in visual communication and branding...",
+    "skillRequirements": [
+      "Graphic design tools",
+      "Visual communication",
+      "Creativity"
+    ]
+  },
+  {
+    "jobTitle": "Data Analyst Intern",
+    "jobType": "Hybrid",
+    "companyName": "Data Insights",
+    "salary": "850 USD/month",
+    "jobCategory": "developer",
+    "experience": "N/A",
+    "jobDescription": "Data Insights is hiring a Data Analyst Intern for hybrid work...",
+    "companyAbout": "Data Insights is a data-driven company providing analytics and business intelligence solutions...",
+    "skillRequirements": [
+      "Data analysis",
+      "Statistical software",
+      "Data visualization"
+    ]
+  },
+  {
+    "jobTitle": "Content Writing Intern",
+    "jobType": "Hybrid",
+    "companyName": "Digital Solutions",
+    "salary": "800 USD/month",
+    "jobCategory": "marketing",
+    "experience": "N/A",
+    "jobDescription": "Digital Solutions is offering a Content Writing Internship for hybrid work...",
+    "companyAbout": "Digital Solutions is a leading digital marketing agency specializing in online advertising...",
+    "skillRequirements": ["Writing skills", "Content creation", "SEO knowledge"]
+  },
+  {
+    "jobTitle": "UX/UI Design Intern",
+    "jobType": "Hybrid",
+    "companyName": "Tech Innovators",
+    "salary": "900 USD/month",
+    "jobCategory": "developer",
+    "experience": "N/A",
+    "jobDescription": "Tech Innovators is seeking a UX/UI Design Intern for hybrid work...",
+    "companyAbout": "Tech Innovators is a technology-driven company focusing on software development...",
+    "skillRequirements": [
+      "User experience design",
+      "User interface design",
+      "Prototyping tools"
+    ]
+  },
+  {
+    "jobTitle": "Social Media Intern",
+    "jobType": "Hybrid",
+    "companyName": "Creative Studio",
+    "salary": "800 USD/month",
+    "jobCategory": "marketing",
+    "experience": "N/A",
+    "jobDescription": "Creative Studio is offering a Social Media Internship for hybrid work...",
+    "companyAbout": "Creative Studio is a design agency specializing in visual communication and branding...",
+    "skillRequirements": [
+      "Social media platforms",
+      "Content creation",
+      "Analytics"
+    ]
+  },
+  {
+    "jobTitle": "Quality Assurance Intern",
+    "jobType": "Hybrid",
+    "companyName": "Tech Innovators",
+    "salary": "900 USD/month",
+    "jobCategory": "developer",
+    "experience": "N/A",
+    "jobDescription": "Tech Innovators is hiring a Quality Assurance Intern for hybrid work...",
+    "companyAbout": "Tech Innovators is a technology-driven company focusing on software development...",
+    "skillRequirements": [
+      "Testing methodologies",
+      "Bug tracking tools",
+      "Attention to detail"
+    ]
+  },
+  {
+    "jobTitle": "Marketing Research Intern",
+    "jobType": "Hybrid",
+    "companyName": "Digital Solutions",
+    "salary": "800 USD/month",
+    "jobCategory": "marketing",
+    "experience": "N/A",
+    "jobDescription": "Digital Solutions is offering a Marketing Research Internship for hybrid work...",
+    "companyAbout": "Digital Solutions is a leading digital marketing agency specializing in online advertising...",
+    "skillRequirements": [
+      "Market research methods",
+      "Data analysis",
+      "Report writing"
+    ]
+  },
+  {
+    "jobTitle": "Web Development Intern",
+    "jobType": "Hybrid",
+    "companyName": "Tech Innovators",
+    "salary": "900 USD/month",
+    "jobCategory": "developer",
+    "experience": "N/A",
+    "jobDescription": "Tech Innovators is seeking a Web Development Intern for hybrid work...",
+    "companyAbout": "Tech Innovators is a technology-driven company focusing on software development...",
+    "skillRequirements": [
+      "Web development technologies",
+      "Frontend frameworks",
+      "Problem-solving"
+    ]
+  },
+  {
+    "jobTitle": "Marketing Intern",
+    "jobType": "Intern",
+    "companyName": "Digital Solutions",
+    "salary": "800 USD/month",
+    "jobCategory": "marketing",
+    "experience": "N/A",
+    "jobDescription": "Digital Solutions is offering a Marketing Internship for remote work...",
+    "companyAbout": "Digital Solutions is a leading digital marketing agency specializing in online advertising...",
+    "skillRequirements": [
+      "Marketing concepts",
+      "Social media management",
+      "Content creation"
+    ]
+  },
+  {
+    "jobTitle": "Software Development Intern",
+    "jobType": "Intern",
+    "companyName": "Tech Innovators",
+    "salary": "900 USD/month",
+    "jobCategory": "developer",
+    "experience": "N/A",
+    "jobDescription": "Tech Innovators is seeking a Software Development Intern for remote work...",
+    "companyAbout": "Tech Innovators is a technology-driven company focusing on software development...",
+    "skillRequirements": [
+      "Programming languages",
+      "Software development concepts",
+      "Problem-solving"
+    ]
+  },
+  {
+    "jobTitle": "Graphic Design Intern",
+    "jobType": "Intern",
+    "companyName": "Creative Studio",
+    "salary": "800 USD/month",
+    "jobCategory": "marketing",
+    "experience": "N/A",
+    "jobDescription": "Creative Studio is offering a Graphic Design Internship for remote work...",
+    "companyAbout": "Creative Studio is a design agency specializing in visual communication and branding...",
+    "skillRequirements": [
+      "Graphic design tools",
+      "Visual communication",
+      "Creativity"
+    ]
+  },
+  {
+    "jobTitle": "Data Analyst Intern",
+    "jobType": "Intern",
+    "companyName": "Data Insights",
+    "salary": "850 USD/month",
+    "jobCategory": "developer",
+    "experience": "N/A",
+    "jobDescription": "Data Insights is hiring a Data Analyst Intern for remote work...",
+    "companyAbout": "Data Insights is a data analytics company providing insights for businesses...",
+    "skillRequirements": [
+      "Data analysis",
+      "Statistical analysis",
+      "Data visualization"
+    ]
+  },
+  {
+    "jobTitle": "Content Writing Intern",
+    "jobType": "Intern",
+    "companyName": "Digital Marketing Agency",
+    "salary": "750 USD/month",
+    "jobCategory": "marketing",
+    "experience": "N/A",
+    "jobDescription": "Digital Marketing Agency is looking for a Content Writing Intern for remote work...",
+    "companyAbout": "Digital Marketing Agency is a full-service agency specializing in digital marketing strategies...",
+    "skillRequirements": ["Content writing", "SEO knowledge", "Copywriting"]
+  },
+  {
+    "jobTitle": "Web Development Intern",
+    "jobType": "Intern",
+    "companyName": "Tech Solutions",
+    "salary": "900 USD/month",
+    "jobCategory": "developer",
+    "experience": "N/A",
+    "jobDescription": "Tech Solutions is hiring a Web Development Intern for remote work...",
+    "companyAbout": "Tech Solutions is a technology consulting firm offering web development solutions...",
+    "skillRequirements": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web development frameworks"
+    ]
+  },
+  {
+    "jobTitle": "Business Analyst Intern",
+    "jobType": "Intern",
+    "companyName": "Business Solutions",
+    "salary": "800 USD/month",
+    "jobCategory": "developer",
+    "experience": "N/A",
+    "jobDescription": "Business Solutions is seeking a Business Analyst Intern for remote work...",
+    "companyAbout": "Business Solutions is a consulting firm specializing in business process optimization...",
+    "skillRequirements": [
+      "Business analysis",
+      "Data analysis",
+      "Process improvement"
+    ]
+  },
+  {
+    "jobTitle": "Social Media Intern",
+    "jobType": "Intern",
+    "companyName": "Social Media Agency",
+    "salary": "750 USD/month",
+    "jobCategory": "marketing",
+    "experience": "N/A",
+    "jobDescription": "Social Media Agency is offering a Social Media Internship for remote work...",
+    "companyAbout": "Social Media Agency is a specialized agency focusing on social media marketing...",
+    "skillRequirements": [
+      "Social media platforms",
+      "Content creation",
+      "Engagement strategies"
+    ]
+  },
+  {
+    "jobTitle": "UX Design Intern",
+    "jobType": "Intern",
+    "companyName": "Design Innovations",
+    "salary": "800 USD/month",
+    "jobCategory": "marketing",
+    "experience": "N/A",
+    "jobDescription": "Design Innovations is hiring a UX Design Intern for remote work...",
+    "companyAbout": "Design Innovations is a design studio specializing in user experience and interface design...",
+    "skillRequirements": [
+      "User experience design",
+      "Wireframing",
+      "Prototyping"
+    ]
+  },
+  {
+    "jobTitle": "Data Science Intern",
+    "jobType": "Intern",
+    "companyName": "Data Analytics Company",
+    "salary": "850 USD/month",
+    "jobCategory": "developer",
+    "experience": "N/A",
+    "jobDescription": "Data Analytics Company is seeking a Data Science Intern for remote work...",
+    "companyAbout": "Data Analytics Company provides advanced data analytics solutions for businesses...",
+    "skillRequirements": ["Python", "Machine learning", "Data visualization"]
+  }
+]

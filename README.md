@@ -1,0 +1,1 @@
+Live site link : https://hire-sync.web.app/ 
